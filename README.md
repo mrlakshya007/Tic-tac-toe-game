@@ -1,2 +1,9 @@
 # Tic-tac-toe-game
-Tic-Tac-Toe is a classic two-player game played on a 3x3 grid. Players take turns marking a square with their symbol (X or O) in an attempt to get three of their symbols in a row—horizontally, vertically, or diagonally. The game ends when one player wins or if all squares are filled without a winner, resulting in a draw.
+Represent the board as a 3x3 list.
+Display the board after each move.
+Prompt players X and O to enter their move (row and column from 1 to 3).
+Validate the input and ensure the chosen square is empty.
+Check for win conditions after each move.
+If a player wins, announce the winner.
+If the board is full without a winner, announce a draw.
+Allow players to play interactively in the console.
